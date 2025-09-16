@@ -12,4 +12,3 @@ name = "video"
 path = "src/lib.rs"
 
 [dependencies]
-ffmpeg-next = "8.0.0"

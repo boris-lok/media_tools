@@ -1,0 +1,1 @@
+- support CLI pattern
