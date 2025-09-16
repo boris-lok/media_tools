@@ -1,0 +1,15 @@
+[package]
+name = "video"
+version = "0.1.0"
+edition = "2024"
+authors = ["boris.lok.tw@outlook.com"]
+
+[[bin]]
+path = "src/bin/video.rs"
+name = "video"
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]
+ffmpeg-next = "8.0.0"
