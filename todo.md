@@ -1,2 +1,2 @@
-- Support CLI pattern
+- ~~Support CLI pattern~~
 - Support uploading the file to the Synology NAS.
